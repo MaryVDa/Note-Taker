@@ -31,6 +31,12 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
 ## Screenshot
+![image](https://github.com/MaryVDa/Note-Taker/assets/122223756/b867fbf1-d791-40ea-8490-700e744a8b3e)
 
 ## GitHub
 https://github.com/MaryVDa/Note-Taker
+
+## Credits
+starter code by:
+* https://github.com/coding-boot-camp
+I also received help from a tutor.
