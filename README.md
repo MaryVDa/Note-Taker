@@ -38,5 +38,5 @@ https://github.com/MaryVDa/Note-Taker
 
 ## Credits
 starter code by:
-* https://github.com/coding-boot-camp
+* https://github.com/coding-boot-camp   
 I also received help from a tutor.
