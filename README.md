@@ -8,7 +8,11 @@ In the terminal, type:
 ```npm i```   
 to install packages. Then type:   
 ```npm start```   
-to run the app.   
+to run the app. 
+
+## Deployment
+Deployed using Heroku:   
+* https://radiant-everglades-17042.herokuapp.com/
 
 ## User Story
 AS A small business owner   
